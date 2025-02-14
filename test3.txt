@@ -7,3 +7,6 @@
 
 // pussing the changes to remote repository
 // use git push origin main 
+
+// updating the test3.txt file in the remote repository
+// git status -> git add -> git commit -m -> git push origin master 
