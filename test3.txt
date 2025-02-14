@@ -6,4 +6,4 @@
 // use gitlog to see the commit history
 
 // pussing the changes to remote repository
-// use git remote add origin url to add the remote repository
+// use git push origin main 
