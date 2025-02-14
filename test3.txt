@@ -1,0 +1,5 @@
+// git clone url 
+// adding test3.txt and removing test3.txt  to the local git . use git status command to see how to do that  check how to do that 
+// after added do some changes in the file and press control enter and use git status command to see how the files are tracked locally 
+
+// use git commit -m "message" to commit the changes
