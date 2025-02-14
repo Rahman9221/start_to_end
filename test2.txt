@@ -1,2 +1,3 @@
 git config --global user.name "USERNAME_FOR_GITHUB_ACCOUNT"
 git config --gloabl user.email "email"
+updated 
