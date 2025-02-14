@@ -3,3 +3,4 @@
 // after added do some changes in the file and press control enter and use git status command to see how the files are tracked locally 
 
 // use git commit -m "message" to commit the changes
+// use gitlog to see the commit history
