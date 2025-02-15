@@ -10,3 +10,23 @@
 
 // updating the test3.txt file in the remote repository
 // git status -> git add -> git commit -m -> git push origin master 
+
+// git pull origin master to pull the changes from remote repository to local repository 
+
+// -------------------------------------------------------------------------------------
+// creating new repository in the remote repository 
+// creating new folder in the local system 
+// git init
+// adding files to the local repository
+// git add .
+// git commit -m "initial commit"
+// git remote add origin url
+
+// checking the branch name 
+// git branch -a
+
+// changing the branch name 
+//git branch -m main 
+
+// pushing into the remote repository
+// git push origin main
